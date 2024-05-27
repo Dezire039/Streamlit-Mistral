@@ -30,13 +30,13 @@
 
 ## Пример использования:
 1) Заходим на сайт, видим, что загруженных файлов нет
-<a href="url"><img src="https://github.com/Dezire039/Streamlit_Mistral/assets/114075427/b603481e-bda0-4abd-914b-1c4940ebc283" height=70% width=70% ></a>
+<a href="url"><img src="https://github.com/Dezire039/Streamlit-Mistral/assets/114075427/b4cb77a7-21f8-4741-ad3d-ca6271e3172b" height=70% width=70% ></a>
 
 2) В соседней вкладке загружаем документ. Теперь он появился в списке загруженных документов
-<a href="url"><img src="..." height=70% width=70% ></a>
+<a href="url"><img src="(https://github.com/Dezire039/Streamlit-Mistral/assets/114075427/00b303f4-4cb2-4339-9809-fb3ab1f5a8ba)" height=70% width=70% ></a>
 
 3) Возвращаемся на главную страницу "Main" и задаем вопрос модели и получаем ответ
-<a href="url"><img src="..." height=70% width=70% ></a>
+
 
 \
 \
