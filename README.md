@@ -1,5 +1,5 @@
 # Приложение "Ответы по нормативным документам на основе языковой модели Mistral" 
-**✨Буторина Анна✨ | УрФУ | ИРИТ-РТФ | Информационна безопасность**\
+**✨Анечка✨ | УрФУ | ИРИТ-РТФ**\
 \
 Данное приложение подключает RAG к языковой модели "mistralai/Mixtral-8x7B-Instruct-v0.1" с HuggingFaceHub и формирует ответ на основе выбранного документа/документов и заданного вопроса  
 
@@ -33,11 +33,11 @@
 <a href="url"><img src="https://github.com/Dezire039/Streamlit_Mistral/assets/114075427/b603481e-bda0-4abd-914b-1c4940ebc283" height=70% width=70% ></a>
 
 2) В соседней вкладке загружаем документ. Теперь он появился в списке загруженных документов
-<a href="url"><img src="https://github.com/Dezire039/Streamlit_Mistral/assets/114075427/54946770-ac2a-4a9b-b5d0-7eb2f67af959" height=70% width=70% ></a>
+<a href="url"><img src="..." height=70% width=70% ></a>
 
 3) Возвращаемся на главную страницу "Main" и задаем вопрос модели и получаем ответ
-<a href="url"><img src="https://github.com/Dezire039/Streamlit_Mistral/assets/114075427/7e79cd1e-aae1-4135-93b8-e10173b935be" height=70% width=70% ></a>
+<a href="url"><img src="..." height=70% width=70% ></a>
 
 \
 \
-**✨Буторина Анна✨**
+**✨Анечка✨**
